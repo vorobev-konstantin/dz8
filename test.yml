@@ -1,0 +1,139 @@
+---
+companies:
+  company:
+    name: "Мечта"
+    positions:
+      1: "Бухгалтер"
+      2: "Юрист"
+      3: "Строитель"
+      4: "Делопроизводитель"
+      5: "Директор по безопасности"
+      6: "Водитель"
+    departments:
+      1: 
+        name: "1 ый отдел"
+        paymentRate : 1
+        ageRate : 2
+        employees: 
+          1: 
+            name: "Ольга"
+            job: 1
+            age: ""
+          2: 
+            name: "Ольга"
+            job: 1
+            age: ""
+          3: 
+            name: "Ольга"
+            job: 1
+            age: ""
+          4: 
+            name: "Ольга"
+            job: 1
+            age: ""
+          5: 
+            name: "Дмитрий"
+            job: 1
+            age: ""  
+          6: 
+            name: "Дмитрий"
+            job: 1
+            age: ""  
+          7: 
+            name: "Дмитрий"
+            job: 1
+            age: ""  
+          8: 
+            name: "Иван"
+            job: 1
+            age: ""  
+          9: 
+            name: "Иван"
+            job: 1
+            age: ""  
+      2: 
+        name: "2 ой отдел"
+        paymentRate : 3
+        ageRate : 1
+        employees: 
+          1: 
+            name: "Роман"
+            job: 2
+            age: ""
+          2: 
+            name: "Роман"
+            job: 2
+            age: ""
+          3: 
+            name: "Роман"
+            job: 2
+            age: ""
+          4: 
+            name: "Роман"
+            job: 2
+            age: ""  
+          5: 
+            name: "Максим"
+            job: 6
+            age: ""
+          6: 
+            name: "Максим"
+            job: 6
+            age: ""
+      3: 
+        name: "3 ий отдел"
+        paymentRate : 3
+        ageRate : 2
+        employees: 
+          1: 
+            name: "Ольга"
+            job: 6
+            age: ""
+          2: 
+            name: "Иван"
+            job: 3
+            age: ""
+          3: 
+            name: "Николай"
+            job: 3
+            age: ""
+      4_5: 
+        name: "4-5 ый отдел"
+        employees:
+          1: 
+            name: "Юлия"
+            job: 4
+            age: 30
+          2: 
+            name: "Юлия"
+            job: 4
+            age: 30
+          3: 
+            name: "Юлия"
+            job: 4
+            age: 30
+          4: 
+            name: "Юлия"
+            job: 4
+            age: 30
+          5: 
+            name: "Юлия"
+            job: 4
+            age: 30
+        4: 
+          name: "4 ый отдел"
+          paymentRate : 3
+          ageRate : 2
+        5: 
+          name: "5 ый отдел"
+          paymentRate : 2
+          ageRate : 3
+      6: 
+        name: "6 ой отдел"
+        paymentRate : 3
+        ageRate : 2
+        employees: 
+          1: 
+            name: "Игорь Викторович"
+            job: 5
+            age: 50
